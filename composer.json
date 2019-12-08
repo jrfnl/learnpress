@@ -1,6 +1,6 @@
 {
   "name": "learnpress/learnpress",
-  "type": "wordpress lms",
+  "type": "wordpress-plugin",
   "license": "GPL",
   "require": {
     "squizlabs/php_codesniffer": "2.*"
